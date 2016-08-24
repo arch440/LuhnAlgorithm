@@ -1,0 +1,9 @@
+C:\Users\Mats\Desktop\LunhMicro\LunhMicro\bin\Debug\LunhMicro.exe.config
+C:\Users\Mats\Desktop\LunhMicro\LunhMicro\bin\Debug\LunhMicro.exe
+C:\Users\Mats\Desktop\LunhMicro\LunhMicro\bin\Debug\LunhMicro.pdb
+C:\Users\Mats\Desktop\LunhMicro\LunhMicro\obj\Debug\LuhnMicro.csprojResolveAssemblyReference.cache
+C:\Users\Mats\Desktop\LunhMicro\LunhMicro\obj\Debug\LunhMicro.exe
+C:\Users\Mats\Desktop\LunhMicro\LunhMicro\obj\Debug\LunhMicro.pdb
+C:\Users\Mats\Desktop\LuhnMicro\LunhMicro\bin\Debug\LunhMicro.exe.config
+C:\Users\Mats\Desktop\LuhnMicro\LunhMicro\obj\Debug\LunhMicro.exe
+C:\Users\Mats\Desktop\LuhnMicro\LunhMicro\obj\Debug\LunhMicro.pdb
